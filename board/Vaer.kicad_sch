@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 619873aa-11ab-4b09-870d-a52b0a2fd5bb)
+
+  (paper "A4")
+
+  (title_block
+    (title "Vær")
+    (date "2023-06-29")
+    (rev "1.0")
+    (company "Tim Janke")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
