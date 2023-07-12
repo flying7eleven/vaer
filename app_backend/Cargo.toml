@@ -1,0 +1,12 @@
+[package]
+name = "vaer_app_backend"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tim Janke <tim+github@janke.biz>"]
+repository = "https://github.com/flying7eleven/vaer"
+description = "The API backend for the iOS app used for data polling"
+readme = "README.md"
+license = "MIT"
+rust-version = "1.60.0"
+
+[dependencies]
