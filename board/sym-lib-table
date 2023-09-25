@@ -1,6 +1,3 @@
 (sym_lib_table
   (version 7)
-  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/components/USB4105-GF-A.kicad_sym")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/components/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "105450-0101")(type "KiCad")(uri "${KIPRJMOD}/components/105450-0101.kicad_sym")(options "")(descr ""))
 )
