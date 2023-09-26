@@ -2946,7 +2946,7 @@
     (property "Value" "Battery_Cell" (at 261.62 126.4285 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_MPD_BH-18650-PC2" (at 257.81 125.476 90)
+    (property "Footprint" "Battery:BatteryHolder_Keystone_1042_1x18650" (at 257.81 125.476 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 257.81 125.476 90)
