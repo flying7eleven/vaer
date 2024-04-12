@@ -6,8 +6,8 @@
 
   (title_block
     (title "Vær Solar-Powered Weather Station")
-    (date "2023-09-26")
-    (rev "1.0")
+    (date "2023-10-24")
+    (rev "1.1")
     (company "Tim Janke")
   )
 
@@ -2453,7 +2453,7 @@
     (property "Value" "MountingHole_Pad" (at 19.05 170.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via" (at 16.51 170.18 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via" (at 16.51 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 16.51 170.18 0)
@@ -2694,7 +2694,7 @@
     (property "Value" "MountingHole_Pad" (at 44.45 181.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via" (at 41.91 181.61 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_Via" (at 41.91 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 41.91 181.61 0)
