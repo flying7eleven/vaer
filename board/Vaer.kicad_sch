@@ -7951,7 +7951,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 194.31 142.24 0)
 			(effects
 				(font
@@ -8865,7 +8865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GSB1C211110DS1HR:AMPHENOL_GSB1C211110DS1HR"
+		(property "Footprint" "USB-C:AMPHENOL_GSB1C211110DS1HR"
 			(at 217.17 36.83 0)
 			(effects
 				(font
@@ -9028,7 +9028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical"
 			(at 78.74 156.21 0)
 			(effects
 				(font
@@ -9816,7 +9816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical"
 			(at 78.74 140.97 0)
 			(effects
 				(font
@@ -10749,7 +10749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 228.6 107.95 0)
 			(effects
 				(font
@@ -11104,7 +11104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 276.86 107.95 0)
 			(effects
 				(font
@@ -11481,7 +11481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 			(at 162.56 39.37 0)
 			(effects
 				(font
@@ -11624,7 +11624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 257.81 109.22 0)
 			(effects
 				(font
@@ -11689,7 +11689,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 203.2 123.19 0)
 			(effects
 				(font
