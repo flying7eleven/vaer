@@ -8204,7 +8204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b5b21ed-4972-475a-a2d8-50f2afb10c35")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 90.805 148.59 0)
 			(effects
 				(font
@@ -8255,7 +8255,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -8375,7 +8375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3722ca10-6706-44d1-935d-3f3252ad5152")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 271.78 76.835 0)
 			(effects
 				(font
@@ -8425,7 +8425,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -9425,7 +9425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78429186-c36c-4dcd-a9e1-8353b988fa3f")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR01"
 			(at 182.88 43.18 0)
 			(effects
 				(font
@@ -9475,7 +9475,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -10628,7 +10628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcfac0ad-7b9b-4d51-9a06-3dcc8b5ab463")
-		(property "Reference" "TP5"
+		(property "Reference" "TP4"
 			(at 233.68 101.5999 90)
 			(effects
 				(font
@@ -10679,7 +10679,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "TP5")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -10983,7 +10983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c93a7bff-11d4-40e5-835f-00f18d0eb22b")
-		(property "Reference" "TP7"
+		(property "Reference" "TP5"
 			(at 274.32 103.3779 0)
 			(effects
 				(font
@@ -11034,7 +11034,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "TP7")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -11437,7 +11437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f45aee34-16a4-4695-abf9-35ede5bc231c")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR02"
 			(at 271.78 44.45 0)
 			(effects
 				(font
@@ -11487,7 +11487,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR01")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -11503,7 +11503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fec90221-c2ec-41dc-8c78-7973c2b3945e")
-		(property "Reference" "TP4"
+		(property "Reference" "TP3"
 			(at 199.898 123.19 90)
 			(effects
 				(font
@@ -11552,7 +11552,7 @@
 		(instances
 			(project "Vaer"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "TP4")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
