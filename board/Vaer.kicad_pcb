@@ -6936,6 +6936,17 @@
 			(solder_mask_margin 0.102)
 			(uuid "e86637ce-8665-4bdb-93b3-9663751d958d")
 		)
+		(model "/Users/tjanke/Private/dev/vaer/board/libraries/GSB1C211110DS1HR.step"
+			(offset
+				(xyz -36.7 12.4 29.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.5mm_Pad_Via"
 		(locked yes)
