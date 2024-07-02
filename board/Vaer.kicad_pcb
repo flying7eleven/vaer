@@ -4463,7 +4463,7 @@
 			(zone_connect 2)
 			(uuid "64bc6748-2b40-4c29-82e4-02271fe82293")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.wrl"
+		(model "/Users/tjanke/Private/dev/vaer/board/libraries/BQ24073RGTT.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4471,7 +4471,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
