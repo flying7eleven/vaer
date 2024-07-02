@@ -11,3 +11,6 @@ The whole project is a low-power-optimized and can be used with a small solar pa
 * **[`app_backend`](app_backend/)**: The backend which is used by the iOS app to fetch collected weather data
 * **[`board`](board/)**: The PCB design for the project created with [KiCad](https://www.kicad.org/)
 * **[`firmware`](firmware/)**: The firmware for the PCB which does the actual work of collecting the data
+
+## Board
+![Vaer PCB 1.2](board/board_rendered_12.png)
