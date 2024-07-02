@@ -11253,15 +11253,15 @@
 			(pintype "power_in")
 			(uuid "b8d34ba3-bbf3-454e-94ec-51e4abf3a1da")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering.wrl"
+		(model "/Users/tjanke/Private/dev/vaer/board/libraries/BME280.step"
 			(offset
-				(xyz 0.01500000025 -0.03500000059 0)
+				(xyz 0.015 -0.035 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
