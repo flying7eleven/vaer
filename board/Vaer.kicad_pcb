@@ -127,8 +127,8 @@
 	(net 54 "unconnected-(U2-GPIO6{slash}TOUCH6{slash}ADC1_CH5-Pad6)")
 	(net 55 "unconnected-(U2-SPIIO6{slash}GPIO35{slash}FSPID{slash}SUBSPID-Pad28)")
 	(net 56 "unconnected-(U2-MTDI{slash}GPIO41{slash}CLK_OUT1-Pad34)")
-	(net 57 "Net-(J4-DP2)")
-	(net 58 "Net-(J4-DN2)")
+	(net 57 "D_{internal}+")
+	(net 58 "D_{internal}-")
 	(net 59 "Net-(U5-GND-Pad4)")
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -350,7 +350,7 @@
 			(uuid "88b8dfa0-60e6-4e93-8b76-263c96e9ba5c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 270)
+			(at 0 3.81 -90)
 			(layer "F.Fab")
 			(uuid "e56723f2-9f11-4fcd-ac76-af013d8f336e")
 			(effects
@@ -3760,7 +3760,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
-			(at -0.22 1.9 360)
+			(at -0.22 1.9 0)
 			(layer "F.SilkS")
 			(uuid "1d9fef82-c26b-4f56-b504-beb974c3077d")
 			(effects
@@ -3771,7 +3771,7 @@
 			)
 		)
 		(property "Value" "1k13"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "47ae7b0f-92cc-4d6e-abbf-60d0ddda470c")
 			(effects
@@ -3978,7 +3978,7 @@
 			(uuid "6a487d01-09d3-4123-b07f-2dde68e45de2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7d82935a-8fd6-4988-9746-8afb57aa31ff")
 			(effects
@@ -4255,7 +4255,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 58 "Net-(J4-DN2)")
+			(net 58 "D_{internal}-")
 			(pinfunction "I/O1")
 			(pintype "passive")
 			(uuid "5faf7dac-9e32-4340-9fe6-e1e8db5afe0b")
@@ -4265,7 +4265,7 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
-			(net 57 "Net-(J4-DP2)")
+			(net 57 "D_{internal}+")
 			(pinfunction "I/O2")
 			(pintype "passive")
 			(uuid "d2e91c32-eabf-4ca0-a497-d9c0f22d85ac")
@@ -6343,7 +6343,7 @@
 			(drill 0.45)
 			(layers "*.Cu")
 			(remove_unused_layers no)
-			(net 16 "D+")
+			(net 57 "D_{internal}+")
 			(pinfunction "DP1")
 			(pintype "bidirectional")
 			(uuid "9b2554d5-cb0e-4728-883f-91d7638d1004")
@@ -6354,7 +6354,7 @@
 			(drill 0.45)
 			(layers "*.Cu")
 			(remove_unused_layers no)
-			(net 18 "D-")
+			(net 58 "D_{internal}-")
 			(pinfunction "DN1")
 			(pintype "bidirectional")
 			(uuid "bf6f10e7-0cc1-41d9-99f9-180e484986d7")
@@ -6431,7 +6431,7 @@
 			(drill 0.45)
 			(layers "*.Cu")
 			(remove_unused_layers no)
-			(net 57 "Net-(J4-DP2)")
+			(net 57 "D_{internal}+")
 			(pinfunction "DP2")
 			(pintype "bidirectional")
 			(uuid "37bb0e41-b12a-444b-9878-20890ed0d96e")
@@ -6442,7 +6442,7 @@
 			(drill 0.45)
 			(layers "*.Cu")
 			(remove_unused_layers no)
-			(net 58 "Net-(J4-DN2)")
+			(net 58 "D_{internal}-")
 			(pinfunction "DN2")
 			(pintype "bidirectional")
 			(uuid "6545010c-332e-4759-9804-3446bfdb7fc0")
