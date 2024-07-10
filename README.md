@@ -13,4 +13,4 @@ The whole project is a low-power-optimized and can be used with a small solar pa
 * **[`firmware`](firmware/)**: The firmware for the PCB which does the actual work of collecting the data
 
 ## Board
-![Vaer PCB 1.2](board/board_rendered_12.png)
+![Vaer PCB 1.3](board/board_rendered_13.png)
