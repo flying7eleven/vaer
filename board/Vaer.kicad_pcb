@@ -7842,9 +7842,9 @@
 		(uuid "c86bd029-af62-4761-874c-dbb7fc439200")
 		(at 88.85 89 -90)
 		(property "Reference" "J4"
-			(at -1.899125 -5.722835 90)
+			(at -1.899125 -5.722835 -90)
 			(layer "F.SilkS")
-			(uuid "722bfd0d-c784-4e92-bf3d-bea1a93e9f20")
+			(uuid "5cafd0eb-0832-4ea4-8ff8-180cd0382b38")
 			(effects
 				(font
 					(size 1.003598 1.003598)
@@ -7853,9 +7853,9 @@
 			)
 		)
 		(property "Value" "105450-0101"
-			(at 5.748805 5.717805 90)
+			(at 5.748805 5.717805 -90)
 			(layer "F.Fab")
-			(uuid "e6fc3062-daec-413a-b95a-6f79d945f07a")
+			(uuid "92d37e24-fec4-4a29-ba5b-da777df15c7b")
 			(effects
 				(font
 					(size 1.003504 1.003504)
@@ -7864,10 +7864,10 @@
 			)
 		)
 		(property "Footprint" "MOLEX_105450-0101"
-			(at 0 0 90)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35ad34da-d04d-492c-bdec-470c418c86ad")
+			(uuid "6b0623b2-6d62-4b8c-8cd6-bcbf82f5eb2b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7876,10 +7876,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "697333e0-735c-41b7-b12d-d67b0a35f3e8")
+			(uuid "56ab1a64-7032-4ec8-89ab-9a1b701dd95e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7888,10 +7888,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b463476e-a81d-406f-b6c1-dfba2af43683")
+			(uuid "f9c470a4-1f90-476f-9a2d-af6bafdd1962")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,7 +7989,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "96099d27-b10e-4f53-ae00-6802aafee479")
+			(uuid "52c0fab5-8a9d-443f-85ef-9616d326d4c3")
 		)
 		(fp_line
 			(start -4.47 0.3)
@@ -7999,7 +7999,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c731a614-d2ab-4f61-9c21-6d2b827fa7ed")
+			(uuid "9d8c1eef-e35b-4e6d-8e41-9735adf255f2")
 		)
 		(fp_line
 			(start 4.47 0.3)
@@ -8009,7 +8009,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ed0a8537-eef2-47b0-bfa3-d8adb9dcbf22")
+			(uuid "6db1975f-62f9-4fe7-9807-c2724184a48f")
 		)
 		(fp_line
 			(start -5.22 4.2)
@@ -8019,7 +8019,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8a238a06-01ab-4f1a-a0a2-434f6c53257f")
+			(uuid "2eaeb93e-e21e-47a5-8fd8-13d09abe38a6")
 		)
 		(fp_line
 			(start 5.22 4.2)
@@ -8029,7 +8029,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6de7bd99-755e-4a6a-9c39-1e6eaadd76d4")
+			(uuid "7258fe82-a67d-4fe9-8038-da36824e636d")
 		)
 		(fp_line
 			(start -5.22 -4.71)
@@ -8039,7 +8039,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "edf12a60-9185-427f-8b05-71d511d17328")
+			(uuid "faada239-b9ba-419f-877e-d6bb8e896836")
 		)
 		(fp_line
 			(start 5.22 -4.71)
@@ -8049,7 +8049,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d88be05c-edb8-4553-9bd1-5757d0b95b7a")
+			(uuid "cc10a155-bce0-4982-ac52-7fbb12ebb682")
 		)
 		(fp_line
 			(start -4.47 3.95)
@@ -8059,7 +8059,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "edf070e2-0363-42e6-a8a4-efb2ab65197b")
+			(uuid "c36bd4eb-945a-4d95-b0bd-1c9223f15551")
 		)
 		(fp_line
 			(start 4.47 3.95)
@@ -8069,7 +8069,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e68a9f12-e6b5-4ba9-bb8d-f9438a621673")
+			(uuid "f4aa3378-5435-42e4-8b57-7ecf7f475d4f")
 		)
 		(fp_line
 			(start -4.47 -3.95)
@@ -8079,7 +8079,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1c2d7164-21e4-4170-aa4f-06e4e5d5e9da")
+			(uuid "d5f5a591-1ad8-4ea7-ab3d-83f30a9425f3")
 		)
 		(fp_line
 			(start 4.47 -3.95)
@@ -8089,7 +8089,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8a3ff360-e6b5-43af-bded-c002b791bea9")
+			(uuid "e4f8fa18-2e9d-47e8-b202-773dd73cb58f")
 		)
 		(pad "A1" smd rect
 			(at -3 -3.77 270)
@@ -8098,7 +8098,7 @@
 			(net 2 "GND")
 			(pinfunction "GND1")
 			(pintype "passive")
-			(uuid "868f6519-5e02-4851-b74e-33adf95406ea")
+			(uuid "45d549ff-d3d8-4edc-b35b-a0c924566307")
 		)
 		(pad "A2" smd rect
 			(at -2.5 -3.77 270)
@@ -8107,7 +8107,7 @@
 			(net 66 "unconnected-(J4-TX1+-PadA2)")
 			(pinfunction "TX1+")
 			(pintype "passive+no_connect")
-			(uuid "f8af17b5-f072-440c-a974-c0fa441de1e4")
+			(uuid "774e2a80-bfc3-4ce4-8983-f1079955fd6d")
 		)
 		(pad "A3" smd rect
 			(at -2 -3.77 270)
@@ -8116,7 +8116,7 @@
 			(net 60 "unconnected-(J4-TX1--PadA3)")
 			(pinfunction "TX1-")
 			(pintype "passive+no_connect")
-			(uuid "609a3ff3-00ef-4ad5-b974-6d2bb8fc0f09")
+			(uuid "72f1e29e-e1db-4312-ab04-a8a9e0928c16")
 		)
 		(pad "A4" smd rect
 			(at -1.5 -3.77 270)
@@ -8125,7 +8125,7 @@
 			(net 11 "VCC_USB")
 			(pinfunction "VBUS1")
 			(pintype "passive")
-			(uuid "0df90fa3-836e-49bd-b048-ec5da3cca26b")
+			(uuid "5c5ef92b-1491-400b-953d-0a540e7ce7af")
 		)
 		(pad "A5" smd rect
 			(at -1 -3.77 270)
@@ -8134,7 +8134,7 @@
 			(net 19 "Net-(J4-CC1)")
 			(pinfunction "CC1")
 			(pintype "passive")
-			(uuid "2255f801-eff7-436a-a81b-da60ffcb9b28")
+			(uuid "435edca5-9647-4c7d-a4ad-73d2eb821e90")
 		)
 		(pad "A6" smd rect
 			(at -0.5 -3.77 270)
@@ -8143,7 +8143,7 @@
 			(net 57 "D_{internal}+")
 			(pinfunction "D1+")
 			(pintype "passive")
-			(uuid "79453f69-fca7-4183-8d97-41785aec3cda")
+			(uuid "d6c8397c-7f8b-4e8a-8e97-e54c33919164")
 		)
 		(pad "A7" smd rect
 			(at 0.5 -3.77 270)
@@ -8152,7 +8152,7 @@
 			(net 58 "D_{internal}-")
 			(pinfunction "D1-")
 			(pintype "passive")
-			(uuid "43286047-9c5f-46a7-9af8-9b9cc9124401")
+			(uuid "08eed35e-9d99-4850-a8ea-5f32a469357d")
 		)
 		(pad "A8" smd rect
 			(at 1 -3.77 270)
@@ -8161,7 +8161,7 @@
 			(net 17 "unconnected-(J4-SBU1-PadA8)")
 			(pinfunction "SBU1")
 			(pintype "passive+no_connect")
-			(uuid "867dc5a0-9339-4d72-948b-6cb5d31aa960")
+			(uuid "2c49fcd5-5245-424c-a18a-ba7ea2bf861b")
 		)
 		(pad "A9" smd rect
 			(at 1.5 -3.77 270)
@@ -8170,7 +8170,7 @@
 			(net 11 "VCC_USB")
 			(pinfunction "VBUS2")
 			(pintype "passive")
-			(uuid "66c41a2f-04e0-440f-a5a6-4814484f7779")
+			(uuid "d50cfbea-35dd-45ca-b970-387261ec2b6e")
 		)
 		(pad "A10" smd rect
 			(at 2 -3.77 270)
@@ -8179,7 +8179,7 @@
 			(net 59 "unconnected-(J4-RX2--PadA10)")
 			(pinfunction "RX2-")
 			(pintype "passive+no_connect")
-			(uuid "0d18e3f7-12d5-4de8-9e43-c97b1c165371")
+			(uuid "9410be9c-bb97-4674-be72-d0889aaae911")
 		)
 		(pad "A11" smd rect
 			(at 2.5 -3.77 270)
@@ -8188,7 +8188,7 @@
 			(net 65 "unconnected-(J4-RX2+-PadA11)")
 			(pinfunction "RX2+")
 			(pintype "passive+no_connect")
-			(uuid "e757bac8-91ea-4c12-906f-aa4e00ddc454")
+			(uuid "66c4e593-cd17-4388-9a54-0b9e243c6d4c")
 		)
 		(pad "A12" smd rect
 			(at 3 -3.77 270)
@@ -8197,7 +8197,7 @@
 			(net 2 "GND")
 			(pinfunction "GND2")
 			(pintype "passive")
-			(uuid "ea43c62d-729e-4362-ab58-b8600131e7ae")
+			(uuid "5e256693-cf3a-444c-9bda-1d8d1316cb58")
 		)
 		(pad "B1" smd rect
 			(at 3.1 -2.47 270)
@@ -8206,7 +8206,7 @@
 			(net 2 "GND")
 			(pinfunction "GND3")
 			(pintype "passive")
-			(uuid "fbfb8ff3-5e40-4bf5-91ec-6dc3fef02201")
+			(uuid "9669b0f2-f959-46d6-8361-c0fd09c334a1")
 		)
 		(pad "B2" smd rect
 			(at 2.25 -2.47 270)
@@ -8215,7 +8215,7 @@
 			(net 64 "unconnected-(J4-TX2+-PadB2)")
 			(pinfunction "TX2+")
 			(pintype "passive+no_connect")
-			(uuid "a0ea7aba-2abe-45be-b2a3-837bfebf3623")
+			(uuid "b09b24be-fe3c-4449-88ec-af39a3a5bb75")
 		)
 		(pad "B3" smd rect
 			(at 1.75 -2.47 270)
@@ -8224,7 +8224,7 @@
 			(net 62 "unconnected-(J4-TX2--PadB3)")
 			(pinfunction "TX2-")
 			(pintype "passive+no_connect")
-			(uuid "8c8ac798-cd7d-4354-9be2-dde27a5611ba")
+			(uuid "3d02ff4d-a068-489b-940c-c6708665363e")
 		)
 		(pad "B4" smd rect
 			(at 1.25 -2.47 270)
@@ -8233,7 +8233,7 @@
 			(net 11 "VCC_USB")
 			(pinfunction "VBUS3")
 			(pintype "passive")
-			(uuid "89300398-f08f-48c3-8b79-82a724d2de3f")
+			(uuid "32dc49be-9945-4b12-9f8c-163a148cb72d")
 		)
 		(pad "B5" smd rect
 			(at 0.75 -2.47 270)
@@ -8242,7 +8242,7 @@
 			(net 20 "Net-(J4-CC2)")
 			(pinfunction "CC2")
 			(pintype "passive")
-			(uuid "fa294154-d499-47e5-adc1-02203bbdf06d")
+			(uuid "d38d1474-e12f-4658-b644-f0325b56a395")
 		)
 		(pad "B6" smd rect
 			(at 0.25 -2.47 270)
@@ -8251,7 +8251,7 @@
 			(net 57 "D_{internal}+")
 			(pinfunction "D2+")
 			(pintype "passive")
-			(uuid "62980a70-7482-4303-8e37-e1508f28b51f")
+			(uuid "25bdaed7-bdaf-48bf-95c3-7ec756964ee7")
 		)
 		(pad "B7" smd rect
 			(at -0.25 -2.47 270)
@@ -8260,7 +8260,7 @@
 			(net 58 "D_{internal}-")
 			(pinfunction "D2-")
 			(pintype "passive")
-			(uuid "180788a3-85d4-4747-a1e1-96cf7b9bb089")
+			(uuid "030159d4-0224-4b43-a9c1-10f8f2b77bb1")
 		)
 		(pad "B8" smd rect
 			(at -0.75 -2.47 270)
@@ -8269,7 +8269,7 @@
 			(net 21 "unconnected-(J4-SBU2-PadB8)")
 			(pinfunction "SBU2")
 			(pintype "passive+no_connect")
-			(uuid "dc192a97-d632-40c4-a4bc-9a122d3dd108")
+			(uuid "f48f907d-5a8d-42aa-94b2-b434d2838e41")
 		)
 		(pad "B9" smd rect
 			(at -1.25 -2.47 270)
@@ -8278,7 +8278,7 @@
 			(net 11 "VCC_USB")
 			(pinfunction "VBUS4")
 			(pintype "passive")
-			(uuid "12240f3e-d0b3-475c-ba2f-6a34bd4471a7")
+			(uuid "0e552fbb-a84c-4482-a2f8-3673945e5cdf")
 		)
 		(pad "B10" smd rect
 			(at -1.75 -2.47 270)
@@ -8287,7 +8287,7 @@
 			(net 63 "unconnected-(J4-RX1--PadB10)")
 			(pinfunction "RX1-")
 			(pintype "passive+no_connect")
-			(uuid "a061997d-5ef3-4655-a65d-8647b5b1b126")
+			(uuid "5250a399-9460-4e6d-8154-dddc71316b90")
 		)
 		(pad "B11" smd rect
 			(at -2.25 -2.47 270)
@@ -8296,7 +8296,7 @@
 			(net 61 "unconnected-(J4-RX1+-PadB11)")
 			(pinfunction "RX1+")
 			(pintype "passive+no_connect")
-			(uuid "7d081af9-7871-430b-a7d6-5cf378963060")
+			(uuid "421f0d86-ded7-4732-8a33-106d5f1dbdb3")
 		)
 		(pad "B12" smd rect
 			(at -3.1 -2.47 270)
@@ -8305,7 +8305,7 @@
 			(net 2 "GND")
 			(pinfunction "GND4")
 			(pintype "passive")
-			(uuid "dbafc00e-ddb8-48f7-bad6-2a17d7ba5100")
+			(uuid "e0fd6f0c-741a-4df3-bd3e-5b371c5ed89d")
 		)
 		(pad "S1" thru_hole oval
 			(at -4.32 -3.36 270)
@@ -8316,7 +8316,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "569f9381-2b15-43c2-a2a4-9f98ad7ccbd6")
+			(uuid "6b411fb7-bf70-493c-ac15-55dc7f5a6d73")
 		)
 		(pad "S2" thru_hole oval
 			(at 4.32 -3.36 270)
@@ -8327,7 +8327,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "5d32a145-a61d-4932-8a2d-ff973f5544aa")
+			(uuid "28c8db92-03dc-4dcd-b374-0f0190529a0f")
 		)
 		(pad "S3" thru_hole oval
 			(at -4.32 2 270)
@@ -8338,7 +8338,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "4e859e42-06ba-4c4e-a0a0-a5c7e911de4e")
+			(uuid "254176aa-c092-4e43-96da-a22377ea96b6")
 		)
 		(pad "S4" thru_hole oval
 			(at 4.32 2 270)
@@ -8349,13 +8349,13 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "145ebdd1-4ac5-4a3d-b5bc-9ea74127cdb8")
+			(uuid "464db0ed-8307-4a15-be7c-4727cca6c4be")
 		)
 		(zone
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "4148eb15-d268-4f7f-ab18-903ecb48a277")
+			(uuid "44a32b3e-90c1-4ea5-905b-3ae4ee4e869b")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -8383,7 +8383,7 @@
 			(net 0)
 			(net_name "")
 			(layers "*.Cu")
-			(uuid "2c61107f-4a81-4baa-98d9-068155f15513")
+			(uuid "3ac1baaf-86fd-4984-93be-ea9d41f6618c")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -8405,17 +8405,6 @@
 				(pts
 					(xy 90.73 85.49759) (xy 90.73 92.5) (xy 85.0774 92.5) (xy 85.0774 85.49759)
 				)
-			)
-		)
-		(model "${KIPRJMOD}/libraries/molex/usbc/105450-0101.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
 			)
 		)
 	)
