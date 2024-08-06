@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Vær Solar-Powered Weather Station")
-		(date "2024-08-01")
+		(date "2024-08-06")
 		(rev "1.4")
 		(company "Tim Janke")
 	)
@@ -3332,12 +3332,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "USB Shielded I/O Receptacle; Type C; Right Angle; Surface Mount; Gold over Nickel"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -3352,16 +3353,6 @@
 				)
 			)
 			(property "AVAILABILITY" "Good"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "USB Shielded I/O Receptacle; Type C; Right Angle; Surface Mount; Gold over Nickel"
 				(at 0 0 0)
 				(effects
 					(font
